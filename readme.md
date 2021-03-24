@@ -6,7 +6,7 @@ Autor: Eduardo Oviedo Blanco
 
 Para usar este taller efectivamente, clone el código en su ambiente local.
 ```
-git clone https://github.com/edWAR6/JS-Guess-the-number-Game.gitt
+git clone https://github.com/edWAR6/JS-Guess-the-number-Game.git
 ```
 Si desea subir el taller en su repositorio personal.
 Cree un repositorio en su perfil, luego:
